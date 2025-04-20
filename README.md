@@ -1,4 +1,5 @@
-Project Summary: FedEx Delivery History Analysis Using EDA and Data Visualization
+Project Summary: 
+FedEx Delivery History Analysis Using EDA and Data Visualization
 This project, titled "FedEx", focuses on performing Exploratory Data Analysis (EDA) on SCMS delivery history data using Google Colab. The primary goal of the analysis was to understand the key patterns and relationships between different variables that influence the shipment and delivery performance of FedEx. By leveraging Python libraries such as Pandas, Seaborn, Matplotlib, NumPy, and Plotly, a total of 15 interactive and static visualizations were created to uncover business insights and support data-driven decision-making.
 
 The dataset includes fields such as delivery dates, shipment modes, freight costs, product classifications, weight, vendor details, and financial metrics like line item value and insurance. Initially, the data underwent cleaning and preprocessing, including the conversion of relevant columns to numeric formats and handling of missing or inconsistent values (e.g., "Weight Captured Separately"). This step ensured that the dataset was ready for meaningful statistical analysis and visualization.
